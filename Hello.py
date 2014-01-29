@@ -1,4 +1,4 @@
-gef hello:
+def hello:
     print("hello World")
     
 Hello
